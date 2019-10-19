@@ -8,10 +8,14 @@
 #landing {
   height: 100vh;
   width: 100vw;
-  background: url("images/GDR_RB.jpg");
+  background: url("images/GDR_4MP.jpg");
   background-color: white;
   background-size: cover;
   background-position: center;
+}
+.row {
+  width: 99vw;
+  height: 100vh;
 }
   
 #aboutJump {
@@ -37,6 +41,7 @@
   font-family: Arial, Helvetica, sans-serif;
   font-size: 16px;
   font-weight: bold;
+  float: right;
 }
 .a-1{
   font-size: 1px;
